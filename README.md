@@ -9,7 +9,17 @@ I'm a full stack developer with interests in data science and machine learning. 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:greenfieldchinedu6@gmail.com)
 
-## Other Common Github Profile Sections
+## 📊 Projects
+### [data-science](https://github.com/GreenfieldO/data-science)
+Repo for all Data-Science projects. Includes data analysis, visualization and predictive modeling implementations.
+
+### [ML-Projects](https://github.com/GreenfieldO/ML-Projects)
+Collection of Machine Learning projects covering classification, regression, clustering and deep learning applications.
+
+### [Software-Eng-projects](https://github.com/GreenfieldO/Software-Eng-projects)
+Repository for Software Engineering and Development projects, featuring web applications, APIs and full-stack implementations.
+
+## Other Profile Section
 👩‍💻 I'm currently working on data science and ML projects
 
 🧠 I'm currently learning advanced algorithms and frameworks
@@ -27,4 +37,4 @@ I'm a full stack developer with interests in data science and machine learning. 
 ⚡️ Fun fact: Always exploring new technologies!
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Data Science, Machine Learning
+Python, Django, Javascript, Node Js, HTML, CSS, Data Science, Machine Learning
